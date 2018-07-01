@@ -1,0 +1,11 @@
+C:\Projects\avsserv\avsserv\avsserv\bin\Debug\netcoreapp2.0\avsserv.deps.json
+C:\Projects\avsserv\avsserv\avsserv\bin\Debug\netcoreapp2.0\avsserv.runtimeconfig.json
+C:\Projects\avsserv\avsserv\avsserv\bin\Debug\netcoreapp2.0\avsserv.runtimeconfig.dev.json
+C:\Projects\avsserv\avsserv\avsserv\bin\Debug\netcoreapp2.0\avsserv.dll
+C:\Projects\avsserv\avsserv\avsserv\bin\Debug\netcoreapp2.0\avsserv.pdb
+C:\Projects\avsserv\avsserv\avsserv\obj\Debug\netcoreapp2.0\avsserv.csprojAssemblyReference.cache
+C:\Projects\avsserv\avsserv\avsserv\obj\Debug\netcoreapp2.0\avsserv.csproj.CoreCompileInputs.cache
+C:\Projects\avsserv\avsserv\avsserv\obj\Debug\netcoreapp2.0\avsserv.AssemblyInfoInputs.cache
+C:\Projects\avsserv\avsserv\avsserv\obj\Debug\netcoreapp2.0\avsserv.AssemblyInfo.cs
+C:\Projects\avsserv\avsserv\avsserv\obj\Debug\netcoreapp2.0\avsserv.dll
+C:\Projects\avsserv\avsserv\avsserv\obj\Debug\netcoreapp2.0\avsserv.pdb
